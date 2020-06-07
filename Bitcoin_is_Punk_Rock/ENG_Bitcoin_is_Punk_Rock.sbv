@@ -1,0 +1,1036 @@
+00:00:08,980 --> 00:00:16,160
+[ANDREAS] Hi everyone. No slides in this
+[presentation]. I'm sparing you that ordeal.
+
+00:00:16,160 --> 00:00:22,620
+How many of you have heard of Bitcoin before today's
+session? All right, pretty much everybody [has]. Great.
+
+3
+00:00:22,620 --> 00:00:28,400
+[Looks like we are] doing a good public relations job.
+How many of you own or have used bitcoin?
+
+4
+00:00:28,400 --> 00:00:35,880
+A much smaller number of people. If you have never
+used bitcoin, I have a pledge from two other people...
+
+5
+00:00:35,880 --> 00:00:42,740
+who will be speaking after me; [we] would be
+very happy to help you set up a wallet today.
+
+6
+00:00:42,740 --> 00:00:48,320
+Come see us after these talks. We will [help you]
+set up a wallet and give you a bit of bitcoin,
+
+7
+00:00:48,320 --> 00:00:50,780
+to help you try it out and experience it.
+
+8
+00:00:50,780 --> 00:00:54,840
+Bitcoin is better experienced than explained.
+
+9
+00:00:54,840 --> 00:01:00,160
+I will not give you a whole bitcoin, because
+that is worth quite a bit of money right now.
+
+
+00:01:00,160 --> 00:01:08,820
+I will probably give you £1 in bitcoin. You may be
+wondering, 'What could [I] do with £1 in bitcoin?'
+
+
+00:01:08,820 --> 00:01:14,380
+With £1 in bitcoin, you can do about fifty transactions.
+
+
+00:01:14,380 --> 00:01:19,520
+That will just give you a glimpse
+into what is possible with bitcoin,
+
+
+00:01:19,520 --> 00:01:24,000
+which would be simply impossible with any other
+kind of [currency] system [besides cash].
+
+
+00:01:24,000 --> 00:01:32,100
+What is Bitcoin? I won't try and explain Bitcoin in fifteen
+minutes. I wrote a book which answers that question.
+
+
+00:01:32,100 --> 00:01:37,960
+It is three-hundred pages long, and it was obsolete
+the moment it was printed. It must be corrected...
+
+
+00:01:37,970 --> 00:01:42,510
+and updated every three months,
+just to keep up with "what is Bitcoin?"
+
+
+00:01:42,510 --> 00:01:47,840
+If you do get engaged in Bitcoin, you will quickly
+find out that Bitcoin is mostly none of the things...
+
+
+00:01:47,840 --> 00:01:50,060
+you thought it was.
+
+
+00:01:50,060 --> 00:01:53,700
+It is a lot more than, and very different from, what you thought.
+
+
+00:01:53,700 --> 00:01:59,180
+Many of the people who get involved in Bitcoin describe
+this experience as "going down the rabbit hole,"
+
+
+00:01:59,180 --> 00:02:07,560
+this instant effect where you feel that something
+special, something amazing, is happening.
+
+
+00:02:07,560 --> 00:02:14,680
+Then you start reading about Bitcoin, get obsessed,
+read more, annoying your friends and family about it.
+
+
+00:02:14,680 --> 00:02:17,880
+You start talking about it at parties and dinner parties,
+
+
+00:02:17,880 --> 00:02:23,560
+and your significant other says, "Oh god,
+here we go again... It's the Bitcoin talk."
+
+
+00:02:23,560 --> 00:02:30,080
+Then you get really obsessed and read about it for
+months. You don't eat and get even more obsessed.
+
+
+00:02:30,100 --> 00:02:33,160
+That experience has happened
+to a lot of people in Bitcoin.
+
+
+00:02:33,160 --> 00:02:41,660
+Bitcoin is not just a minor, incremental
+change. It is not just a payment network.
+
+
+00:02:41,660 --> 00:02:47,680
+Bitcoin is one of the most fundamental
+transformations on the system of money.
+
+
+00:02:47,680 --> 00:02:53,000
+What is money? That becomes the center of
+the conversation when you talk about Bitcoin.
+
+
+00:02:53,000 --> 00:02:57,480
+You realize that the vast majority of
+people don't know what money is.
+
+
+00:02:57,480 --> 00:03:01,540
+We use it every day, and yet most of us
+really don't understand how it works.
+
+
+00:03:01,540 --> 00:03:05,480
+We think we understand how it works,
+but try explaining it to a five-year-old.
+
+
+00:03:05,480 --> 00:03:08,340
+You will quickly find out that [there are]
+limitations on your knowledge on money.
+
+
+00:03:08,340 --> 00:03:14,380
+The average person can't answer more than three
+questions from a five-year-old about what money is.
+
+
+00:03:14,380 --> 00:03:22,100
+"Mommy, why can't we have more money?
+Who makes money? What's it made of?"
+
+
+00:03:22,100 --> 00:03:28,499
+Most parents, after about three questions, will
+revert to the good old "go do your homework,"
+
+
+00:03:28,499 --> 00:03:31,830
+and that is the end of that conversation.
+
+
+00:03:31,830 --> 00:03:38,800
+How old is money as a technology? It is not thousands
+of years old, but hundreds_ of thousands of years old.
+
+
+00:03:38,800 --> 00:03:46,400
+We don't [accurately] know how old money is because
+every archaeological site has evidence of money in it:
+
+
+00:03:46,400 --> 00:03:48,740
+beads, feathers, stones.
+
+
+00:03:48,740 --> 00:03:57,320
+We [know of] four major transformations in the forms
+of money: physical objects (like beads and feathers),
+
+
+00:03:57,320 --> 00:04:08,880
+to precious metals about five or six thousand years ago,
+transformed through many civilizations.
+
+
+00:04:08,880 --> 00:04:13,480
+Including Greece, where I come from.
+
+
+00:04:13,480 --> 00:04:20,040
+Then we start seeing the evidence of paper
+money, an abstraction of the previous metals.
+
+
+00:04:20,040 --> 00:04:28,360
+In the 1920s and 1930s, we gave up on the precious
+metal part and went for just paper. Very convenient.
+
+
+00:04:28,360 --> 00:04:35,760
+In 2008, Bitcoin happened. A lot of people look
+at Bitcoin and say, "It is just a payment network."
+
+
+00:04:35,760 --> 00:04:42,120
+"It is [not] a currency. It is not a big transformation."
+But that would be a mistake.
+
+
+00:04:42,120 --> 00:04:50,360
+Bitcoin is a fundamental transformation of every aspect
+of money, the most abstract form of money we created.
+
+
+00:04:50,360 --> 00:04:58,180
+The name is terrible. It has the word "coin" in it,
+and a coin is [a very] physical form of money.
+
+
+00:04:58,180 --> 00:05:04,520
+Bitcoin is the least physical form of money
+you can imagine, so that can be confusing.
+
+
+00:05:04,520 --> 00:05:09,500
+Bitcoin isn't [just] a currency,
+Bitcoin isn't [just] a payment network.
+
+
+00:05:09,500 --> 00:05:20,060
+Bitcoin is a protocol, a network-centric platform
+for recording ownership on a peer-to-peer basis.
+
+
+00:05:20,060 --> 00:05:25,040
+Those are fancy words, but it means this:
+
+
+00:05:25,040 --> 00:05:31,620
+saying "bitcoin is a currency" is like saying "the internet
+is email." Currency is [just] the first application.
+
+
+00:05:31,620 --> 00:05:36,740
+If you have a [decentralized] platform that allows
+you to record ownership, the first type of asset...
+
+
+00:05:36,740 --> 00:05:40,900
+that you are likely to record on
+that ledger is obviously a currency.
+
+
+00:05:40,900 --> 00:05:46,820
+[Currency] is the most obvious application, but it is only
+the beginning. Bitcoin is not money for the internet.
+
+
+00:05:46,820 --> 00:05:55,060
+Bitcoin is the internet of money,
+and currency is jut the first app.
+
+
+00:05:55,060 --> 00:06:02,760
+Why is it so hard to grasp what Bitcoin is?
+It changes many of the fundamental aspects of money.
+
+
+00:06:02,760 --> 00:06:11,780
+Change is difficult, and the experience of
+trying to explain Bitcoin changes over time.
+
+
+00:06:11,780 --> 00:06:17,900
+When I first started trying to explain
+Bitcoin, I was faced with denial.
+
+
+00:06:17,900 --> 00:06:23,020
+People would tell me, "bitcoin isn't real money."
+
+
+00:06:23,020 --> 00:06:35,900
+Serious scientists wrote theses on why bitcoin isn't
+real money. Yet I was living on bitcoin for two years.
+
+
+00:06:35,900 --> 00:06:42,190
+My own personal experience was a direct counter-
+factual to the [assertion] that bitcoin is not real money.
+
+
+00:06:42,190 --> 00:06:52,780
+If I can use it to buy goods and services, it is money.
+If I get paid for my goods and services, it is money.
+
+
+00:06:52,780 --> 00:07:05,340
+Denial was the first reaction, and then we went to anger.
+"Bitcoin is about drug dealers, terrorists, paedophiles,
+
+
+00:07:05,340 --> 00:07:15,880
+and criminals!" I had people ask me, on air, whether
+I was a drug dealer [while] I tried to explain Bitcoin.
+
+
+00:07:15,880 --> 00:07:22,780
+They didn't ask the HSBC banker if they were a money
+launderer, but they asked me if I was a drug dealer.
+
+
+00:07:22,780 --> 00:07:35,580
+That is kind of bizarre. What comes after anger?
+We have reached the stage of bargaining.
+
+
+00:07:35,580 --> 00:07:49,460
+"Bitcoin is really disruptive, strange, and different.
+Let's try to polish it up, smooth out the rough edges."
+
+
+00:07:49,460 --> 00:07:55,520
+"Let's make it more palatable to regulators,
+more comfortable for the corporate boardroom."
+
+
+00:07:55,520 --> 00:08:03,700
+"Beyond Bitcoin: unleashing the power of the blockchain!
+Bitcoin is just a silly currency."
+
+
+00:08:03,700 --> 00:08:07,280
+"The important stuff is the blockchain."
+
+
+00:08:07,280 --> 00:08:16,460
+[They will have] this great marketing and white-washing
+experience, where [they] pretend to want disruption.
+
+
+00:08:16,460 --> 00:08:26,100
+This is the buzzword of the time. "Disrupt! "We want to
+disrupt our industry, our company from the inside-out."
+
+
+00:08:26,100 --> 00:08:33,900
+"We want to change the way that banking is done."
+Really? Great! Let me tell you about Bitcoin.
+
+
+00:08:33,900 --> 00:08:42,780
+[It is] open, decentralized, permissionless innovative,
+and completely without borders. Identity and KYC?
+
+
+00:08:42,780 --> 00:08:47,880
+Won't do it, can't do it. That is not a bug, it is a feature.
+
+
+00:08:47,880 --> 00:08:54,180
+[Centralized] control? No. Can't do it.
+That is not a bug, it's a feature.
+
+
+00:08:54,180 --> 00:09:02,280
+You want disruption? Here you go! Radical disruption.
+Completely decentralized money with no borders.
+
+
+00:09:02,280 --> 00:09:12,220
+"Well, calm down, Che Guevara. We said 'disruption,'
+but we didn't mean that kind of disruption."
+
+
+00:09:12,220 --> 00:09:25,180
+"How about we take this decentralized, open, borderless,
+network-centric money without intermediaries...
+
+
+00:09:25,180 --> 00:09:27,120
+and we add a bit of control?"
+
+
+00:09:27,120 --> 00:09:37,680
+"Centralize it a tiny bit? Maybe throw some
+KYC in there? We will rename it 'blockchain.'"
+
+
+00:09:37,680 --> 00:09:41,280
+"Now we can start investing in this stuff."
+
+
+00:09:41,280 --> 00:09:47,920
+But if you look at what companies are being invested in,
+[they aren't] companies even doing 'blockchain.'
+
+
+00:09:47,920 --> 00:10:02,280
+They are doing centralized banking with bitcoin currency,
+but without any of the disruptive potential.
+
+
+00:10:02,280 --> 00:10:10,380
+Bitcoin is not smooth jazz,
+Bitcoin is punk rock -- deal with it!
+
+
+00:10:10,380 --> 00:10:23,300
+It is disruptive and that is precisely why it is so difficult
+to swallow, to swaddle in traditional investment terms.
+
+
+00:10:23,300 --> 00:10:30,840
+Bitcoin is the first completely decentralized,
+transnational platform for exchanging value.
+
+
+00:10:30,840 --> 00:10:41,920
+It has no borders and doesn't care whether you like a
+transaction. It is based on mathematical verifiability.
+
+
+00:10:41,920 --> 00:10:52,860
+It is the internet [of money], unleashed,
+unvarnished, unpolished, and uncensorable.
+
+
+00:10:52,860 --> 00:11:02,600
+[Even] if you can't swallow that pill, another startup will
+[embrace] that innovation and disrupt your industry.
+
+
+00:11:02,600 --> 00:11:11,220
+They can swallow that pill. As we saw with the internet,
+when the first-tier telecommunication companies...
+
+
+00:11:11,220 --> 00:11:19,500
+wanted to control and polish the internet,
+make it nice and cozy, [they] came up with...
+
+
+00:11:19,500 --> 00:11:26,620
+ISDN, colored faxing, and CompuServe.
+
+
+00:11:26,620 --> 00:11:33,560
+A few of the third-tier companies, who knew they
+couldn't compete on that field, took to the internet.
+
+
+00:11:33,560 --> 00:11:38,440
+[They] used it as a trojan horse to disrupt
+the entire telecommunications industry.
+
+
+00:11:38,440 --> 00:11:44,020
+They used that early first-mover advantage.
+
+
+00:11:44,020 --> 00:11:52,980
+If you think Bitcoin companies will get a banking license, play nice with regulators, and do something mild...
+
+
+00:11:52,980 --> 00:12:00,280
+just to jump on some kind of retail shopping
+environment, you are missing the point.
+
+
+00:12:00,280 --> 00:12:09,340
+Bitcoin is about the other six billion.
+Bitcoin is about the unbanked and borderless.
+
+
+00:12:09,340 --> 00:12:21,300
+Bitcoin is disruption on a scale that most
+people haven't even begun to imagine.
+
+
+00:12:21,300 --> 00:12:29,940
+If you are a startup, understand that not having
+a banking license is an advantage in Bitcoin.
+
+
+00:12:29,940 --> 00:12:34,330
+Bitcoin solves a primary consumer problem in finance.
+
+
+00:12:34,330 --> 00:12:45,120
+How many consumers have [said], "I'm with Lloyds
+bank, but I'm thinking about switching to Barclays...
+
+
+00:12:45,120 --> 00:12:48,400
+because they have a robust KYC program."
+
+
+00:12:48,400 --> 00:12:53,080
+[Laughter] "I'm worried I might
+accidentally money-launder."
+
+
+00:12:53,080 --> 00:13:00,300
+"I want some nice protection from their
+compliance department." [Laughter]
+
+
+00:13:00,300 --> 00:13:06,660
+Consumers care about identity theft, which
+is a plague upon the [financial] industry.
+
+
+00:13:06,660 --> 00:13:16,540
+It has become a plague because personally identifiable
+information must be collected by every intermediary,
+
+
+00:13:16,540 --> 00:13:27,920
+on every transaction, and then hoarded [long-term],
+creating giant honeypots that attract hackers like flies.
+
+
+00:13:27,920 --> 00:13:36,680
+You can't protect that information, if you are realistic
+about it. No one can protect all that information.
+
+
+00:13:36,680 --> 00:13:41,040
+The banks can't protect that information,
+the retailers can't protect that information,
+
+
+00:13:41,040 --> 00:13:49,200
+the credit card companies can't protect that information,
+[and even] the NSA can't protect that information.
+
+
+00:13:49,200 --> 00:13:57,940
+The U.S. government was unable to protect the
+background [check] data for security clearances.
+
+
+00:13:57,940 --> 00:14:04,000
+[All their prior history of] drug addictions,
+criminal convictions, and sexual perversions,
+
+
+00:14:04,000 --> 00:14:07,760
+of every single person in the U.S.
+government who got a clearance.
+
+
+00:14:07,760 --> 00:14:09,760
+They couldn't protect that information.
+
+
+00:14:09,760 --> 00:14:15,820
+You think you can protect my Social Security number,
+or my date of birth? Don't fool yourself.
+
+
+00:14:15,820 --> 00:14:21,840
+The only way to protect personally identifiable
+information, is to not collect it. Guess what?
+
+
+00:14:21,840 --> 00:14:30,880
+Bitcoin -- by design, from day one -- solves identity
+theft by basing trust on verifiable mathematics,
+
+
+00:14:30,880 --> 00:14:43,120
+on programmable money, on automated escrow
+without intermediaries, [where] identity is not required.
+
+
+00:14:43,120 --> 00:14:51,020
+[Just there], you have one of the biggest breakthroughs
+in payment systems we've seen in the last fifty years.
+
+
+00:14:51,020 --> 00:15:01,220
+What do [they] do in response to that?
+Try to ram KYC on top of Bitcoin and say,
+
+
+00:15:01,220 --> 00:15:05,220
+"Let's collect information on everybody
+who is using bitcoin on an exchange."
+
+
+00:15:05,220 --> 00:15:10,960
+Guess what [will] happen then, if you have a
+completely open and decentralized network?
+
+
+00:15:10,960 --> 00:15:16,200
+It is like [trying to] check for tickets on only two
+of the one hundred doors at Wembley Stadium,
+
+
+00:15:16,200 --> 00:15:21,960
+wondering why people who don't have tickets
+are using the other ninety-eight doors.
+
+
+00:15:21,960 --> 00:15:28,440
+If you [force] KYC on the exchanges, you will
+end up surveilling "the innocent" and the idiots.
+
+
+00:15:28,440 --> 00:15:32,340
+Those are the only people who
+will still be using exchanges,
+
+
+00:15:32,340 --> 00:15:37,160
+now you have a giant honeypot of surveillance
+information on the innocent and the idiots.
+
+
+00:15:37,160 --> 00:15:44,880
+You have endangered the private information of every
+single customer, while achieving absolutely nothing...
+
+
+00:15:44,880 --> 00:15:51,920
+in terms of preventing criminal activity.
+
+
+00:15:51,920 --> 00:16:02,980
+Bitcoin [will] not be leashed. You can't go beyond
+Bitcoin to "unleash the power of the blockchain."
+
+
+00:16:02,980 --> 00:16:15,340
+The blockchain itself is boring technology; it is a ledger,
+a slow database. It's Quicken, only slow and distributed.
+
+
+00:16:15,340 --> 00:16:22,580
+What is really interesting about the blockchain is the
+possibility of completely decentralized consensus,
+
+
+00:16:22,580 --> 00:16:27,960
+a system that does not require intermediaries,
+that does not require trusted third parties,
+
+
+00:16:27,960 --> 00:16:33,700
+where there are only two parties in a transaction
+(the sender and recipient), no counter-parties.
+
+
+00:16:33,700 --> 00:16:42,340
+Transactions are verifiable on their
+own, without appealing to authority.
+
+
+00:16:42,340 --> 00:16:51,700
+That is the revolutionary power of Bitcoin; that is
+the disruptive innovation. Banking changed in 2008.
+
+
+00:16:51,700 --> 00:17:02,420
+If you think the end result [of banking] will be
+everyone running banking [apps] on their smartphone,
+
+
+00:17:02,420 --> 00:17:05,459
+you are missing the point.
+
+
+00:17:05,459 --> 00:17:11,049
+A decade from now, a ten-year-old will be able to run the
+[equivalent of the] SWIFT network on their smartphone.
+
+
+00:17:11,049 --> 00:17:16,720
+They will be a bank, a brokerage
+house, [through] their smartphone.
+
+
+00:17:16,720 --> 00:17:20,400
+By the time they are allowed to open
+a bank account at the age of sixteen,
+
+
+00:17:20,400 --> 00:17:27,860
+they have spent five or six years using bitcoin
+on a day-to-day basis as their currency.
+
+
+00:17:27,860 --> 00:17:32,900
+In a global connected world, credit cards don't
+work for minors. They will be using bitcoin [first].
+
+
+00:17:32,900 --> 00:17:35,180
+In fact, we're already seeing this!
+
+
+00:17:35,180 --> 00:17:40,000
+By the time they get a bank [account],
+they have six years of experience with bitcoin.
+
+
+00:17:40,000 --> 00:17:47,510
+Try explaining to them what "three to five business days
+to clear a check" means. Try explaining what a check is.
+
+
+00:17:47,510 --> 00:17:56,400
+Try explaining why they have to pay you £5 to keep
+their account. Try explaining what an overdraft fee is.
+
+
+00:17:56,400 --> 00:18:00,680
+While you're at it, you might as well
+sell them a landline and a fax machine;
+
+
+00:18:00,680 --> 00:18:09,420
+they [will be] just as likely to get one of those
+as they are to open a bank account.
+
+
+00:18:09,420 --> 00:18:16,580
+Blockchain technology [will] be very useful for banks
+to disintermediate the clearing houses and settlement,
+
+
+00:18:16,580 --> 00:18:23,340
+which offer centralized control over
+transaction, equity, and securities clearing.
+
+
+00:18:23,340 --> 00:18:32,040
+[Blockchains may] reduce the cost of doing those things,
+change the financial equation for settlement...
+
+
+00:18:32,040 --> 00:18:35,200
+and clearing on a global basis.
+
+
+00:18:35,200 --> 00:18:39,000
+But that is not revolutionary or disruptive.
+
+
+00:18:39,000 --> 00:18:46,380
+Bitcoin [will] bring banking to feature phones over SMS.
+
+
+00:18:46,380 --> 00:18:55,140
+Today, there are more people with feature phones and
+SMS, than people who have access to clean water.
+
+
+00:18:55,140 --> 00:19:01,520
+Every single one of these text-messaging phones
+can become a loan origination station,
+
+
+00:19:01,520 --> 00:19:13,820
+a Bloomberg terminal, a SWIFT terminal, a banking
+system that serves other phones connected to it.
+
+
+00:19:13,820 --> 00:19:21,740
+There are six billion people out there who have no
+access to international credit, liquidity, and equities.
+
+
+00:19:21,740 --> 00:19:25,840
+[These people don't have] the ability to move
+money between currencies or across borders,
+
+
+00:19:25,840 --> 00:19:28,180
+to do import and export.
+
+
+00:19:28,180 --> 00:19:34,240
+Those are restricted capabilities of the privileged few.
+
+
+00:19:34,240 --> 00:19:45,680
+Bitcoin can deliver banking services not by
+"banking the unbanked," but by de-banking all of us.
+
+
+00:19:45,680 --> 00:19:56,960
+Bitcoin can do that under the title "Bitcoin" or
+whatever other name we want to plaster on.
+
+
+00:19:56,960 --> 00:20:04,020
+The underlying invention, of a completely
+decentralized protocol for money, is here.
+
+
+00:20:04,020 --> 00:20:09,880
+It happened in 2008 and it is not going anywhere.
+
+
+00:20:09,880 --> 00:20:18,820
+When you see that next article in the financial
+newspapers, telling you Bitcoin died because...
+
+
+00:20:18,820 --> 00:20:26,320
+the price crashed ("Is this the end of Bitcoin?!"),
+go to Bitcoin Obituaries and add [that article]...
+
+
+00:20:26,320 --> 00:20:31,480
+to the other 150 obituaries
+written for Bitcoin since 2010.
+
+
+00:20:31,480 --> 00:20:39,220
+One thing Bitcoin [always] does: it refuses to die.
+It is a relentless anomaly, an incubator for black swans.
+
+
+00:20:39,220 --> 00:20:47,060
+It refuses to die because there is no center.
+There is nothing to co-opt, nothing to stamp down.
+
+
+00:20:47,060 --> 00:20:55,020
+There is nothing to shut down, filter, or control,
+because it is completely decentralized.
+
+
+00:20:55,020 --> 00:20:57,880
+It takes a while to understand that.
+
+
+00:20:57,880 --> 00:21:04,080
+If you want to be involved in one of the most disruptive
+[movements], one of the most exciting spaces,
+
+
+00:21:04,080 --> 00:21:09,340
+[with] one of the most amazing inventions in
+computer science over the last several decades,
+
+
+00:21:09,340 --> 00:21:12,380
+the key focus is decentralisation.
+
+
+00:21:12,380 --> 00:21:18,580
+Don't make the mistake of ignoring
+the disruptive potential of Bitcoin,
+
+
+00:21:18,580 --> 00:21:31,040
+to get some watered down, smooth jazz, soft version
+that feels comfortable at the executive boardroom.
+
+
+00:21:31,040 --> 00:21:39,660
+When faced with strategic disruption of
+that scale, there are two places you can be:
+
+
+00:21:39,660 --> 00:21:51,600
+Blockbuster or Netflix, Blackberry or Apple.
+Or you can be Kodak. [That ended well].
+
+
+00:21:51,600 --> 00:22:06,680
+That is why Bitcoin is the important thing,
+not the blockchain. Thank you. [Applause]
+
+
+00:22:06,680 --> 00:22:12,280
+[ORGANISER] Andreas, your Greek name
+leads me to make the first reference today,
+
+
+00:22:12,280 --> 00:22:19,680
+to the Greek economy. I noticed in the last few days,
+on Google Trends, that from inside Greece...
+
+
+00:22:19,680 --> 00:22:27,400
+there have been a lot of people
+researching cryptocurrencies.
+
+
+00:22:27,400 --> 00:22:34,720
+How could bitcoin make a difference in a
+situation like Greece is in at the moment?
+
+
+00:22:34,720 --> 00:22:43,200
+[ANDREAS] It can't, not today. Greece is not ready
+for bitcoin, and bitcoin isn't ready for Greece.
+
+
+00:22:43,200 --> 00:22:47,940
+Greece isn't ready for bitcoin because
+[they have problems with] liquidity.
+
+
+00:22:47,940 --> 00:22:52,900
+If you have cash, you don't need bitcoin [as much].
+If you don't have cash, [it is harder to] get bitcoin.
+
+
+00:22:52,900 --> 00:22:59,080
+The problem isn't solved by switching currencies,
+certainly not by adopting a cryptocurrency through...
+
+
+00:22:59,080 --> 00:23:02,080
+a national initiative, which would be an utter disaster.
+
+
+00:23:02,080 --> 00:23:08,300
+That is worse than the euro. Bitcoin is about
+independent choice, having a safe haven...
+
+
+00:23:08,300 --> 00:23:11,420
+outside of the current currency control systems.
+
+
+00:23:11,420 --> 00:23:20,220
+People are interested in bitcoin under these times of
+crisis, because with bitcoin there can be no bail-ins.
+
+
+00:23:20,220 --> 00:23:27,320
+There can be no bank holidays, no seizures,
+no freezes, no account limits, no currency controls.
+
+
+00:23:27,320 --> 00:23:33,040
+Bitcoin allows any individual to send money anywhere
+in the world, and it is completely uncensorable.
+
+
+00:23:33,040 --> 00:23:43,040
+In a world where we see these crises, Bitcoin
+shows us a vision of a potential safe haven.
+
+
+00:23:43,040 --> 00:23:50,500
+It will not happen today, any more than you could
+disrupt the media and entertainment industry...
+
+
+00:23:50,500 --> 00:23:54,060
+in the early 1990s [with] the internet,
+because it was too early [then].
+
+
+00:23:54,060 --> 00:23:59,300
+But those of us who have the vision can see it coming.
+
+
+00:23:59,300 --> 00:24:03,500
+One day, perhaps in ten years, we will
+see massive disruption from [Bitcoin].
+
+
+00:24:03,500 --> 00:24:10,620
+[ORGANISER] Are there any governments today who are
+seriously thinking about bitcoin and the blockchain,
+
+
+00:24:10,620 --> 00:24:13,600
+maybe as ways of making tax collection more efficient?
+
+
+00:24:13,600 --> 00:24:17,660
+Are there any governments
+we need to pay attention to?
+
+
+00:24:17,660 --> 00:24:24,220
+[ANDREAS] Not really, because governments
+are not the [creators] of currency anymore.
+
+
+00:24:24,220 --> 00:24:28,920
+Bitcoin launched an era of non-national currencies.
+
+
+00:24:28,920 --> 00:24:36,520
+In retrospect, national currencies and central banking
+occupy a very short period [of human] history.
+
+
+00:24:36,520 --> 00:24:42,460
+There were really no national currencies
+or banking before the last century.
+
+00:24:42,460 --> 00:24:46,480
+Maybe there won't be any after
+a few decades, after this century.
+
+00:24:46,480 --> 00:24:52,460
+But you must think of Bitcoin in non-national terms.
+It is not [one of these] flag currencies.
+
+00:24:52,460 --> 00:24:58,180
+It doesn't belong to any one nation.
+It is the first truly transnational currency.
+
+00:24:58,180 --> 00:25:04,000
+[ORGANISER] Thank you, Andreas.
+[ANDREAS] Thank you. [Applause]

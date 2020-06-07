@@ -1,4 +1,4 @@
-# TranslateAndreas
+# TranslateAndreasMAntonopoulos
 
 In this my first personal project on Github, I'm going to translate my favorite Andreas M. Antonopoulos videos into Japanese.:jp:
 
@@ -12,7 +12,8 @@ Youtubeで閲覧できる真のビットコイン伝道者[アンドレアス・
 
 ## Source
 - [x] [Do altcoins threaten to replace Bitcoin?](https://youtu.be/w-V_5EWyU5c)
-- [x] [HODLing and the "get free" scheme](https://youtu.be/MhOwmsW1YNI)
-- [x] [Why Bitcoin is 'The Next Bitcoin'](https://youtu.be/p0ftZgCEZos) (Reviewed and Approved on 5/29/2020)
+- [x] [HODLing and the 'get free' scheme](https://youtu.be/MhOwmsW1YNI)
+- [x] [Why Bitcoin is 'The Next Bitcoin'](https://youtu.be/p0ftZgCEZos) (Approved on 5/29/2020)
+- [] [Bitcoin is Punk Rock](https://youtu.be/A6kJfvuNqtg)
 
 Translated by [@katakoto](https://twitter.com/katakoto):+1:

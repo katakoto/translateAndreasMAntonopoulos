@@ -12,7 +12,7 @@ Youtubeで閲覧できる真のビットコイン伝道者[アンドレアス・
 
 ## Source
 - [x] [Do altcoins threaten to replace Bitcoin?](https://youtu.be/w-V_5EWyU5c)(Approved on 2/18/2020)
-- [x] [HODLing and the 'get free' scheme](https://youtu.be/MhOwmsW1YNI)
+- [x] [HODLing and the 'get free' scheme](https://youtu.be/MhOwmsW1YNI)(Approved on 3/13/2020)
 - [x] [Why Bitcoin is 'The Next Bitcoin'](https://youtu.be/p0ftZgCEZos)(Approved on 5/29/2020)
 - [ ] [Keeping Digital Communities Weird](https://youtu.be/A6kJfvuNqtg)
 - [ ] [Bitcoin is Punk Rock](https://youtu.be/A6kJfvuNqtg)

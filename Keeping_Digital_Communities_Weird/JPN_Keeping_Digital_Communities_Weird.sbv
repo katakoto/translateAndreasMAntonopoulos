@@ -408,362 +408,298 @@ Usnetはとても奇妙、ものすごーくおかしな所でした。
 どうやっておかしなモノを取ってきて、スーツで正装させ、散髪させ、役員達にプレゼンさせれば良いでしょうか？
 
 0:15:16.600,0:15:23.020
-I remember the first few years when I'd go to companies;
-they'd ask me to come and present.
+最初の何年か、私が会社に出向いてのプレゼンテーションを依頼された頃を思い出します。
 
 0:15:23.020,0:15:32.320
-They would say to me, "We want you to talk to our executives, but when you talk to our executives,"
+会社の人達は私にこう言いました。「我々の重役達にプレゼンを依頼したいのですが
 
 0:15:32.320,0:15:50.100
-"could you please say 'blockchain'? Don't say 'Bitcoin',
-because Bitcoin is weird and blockchain is the future."
+彼らに話す際には“ビットコイン”とは言わずに、“ブロックチェーン”を使って話して頂けませんか？なぜって“ビットコイン”は何か変で気味が悪いんですが、“ブロックチェーン”には未来があるからです。」
 
 0:15:50.100,0:16:04.780
-And I said, "No, I won't say 'blockchain.' I will say 'Bitcoin',
-because Bitcoin is the future and blockchain is bullshit."
+私は言いました。「いやです。“ブロックチェーン”とは言いません。“ビットコイン”と言います。なぜって“ビットコイン”が未来であり“ブロックチェーン”などクソくだらないからです。
 
 0:16:04.780,0:16:15.520
-"I'll also say 'bullshit' to your executives, because you
-paid me to come here and tell you the truth as I see it."
+そしてあんたらの重役にも言ってやりますよ、お前らクソくだらねぇなって。なぜってあなたたちが私にお金を払ってここに呼んで、本当の事を私が見たように話してくれと頼んだからです。
 
 0:16:15.520,0:16:22.840
-I'm not going to try to sell you something
-that's nicely packaged, just to avoid offending."
+私は、単に気分を害さないようにと、きれいに包装された何かを売りつけようとしているのではないからです。
 
 0:16:22.840,0:16:26.580
-I'm interested in telling the truth.
+私が興味があるのは真実を伝える事です。
 
 0:16:26.580,0:16:37.160
-The reason cryptocurrencies are interesting, the reason
-Bitcoin is interesting, is because it's not controlled.
+暗号通貨が興味深いものである理由は、ビットコインが面白い理由は、それが誰にもコントロールされないものだからです。
 
 0:16:37.160,0:16:49.520
-It can't be censored, because it's open.
-A lot of the people involved are very "weird."
+検閲できないものだからだし、オープンなものだからです。そして関わっているたくさんの人々がめちゃくちゃ“変でおかしな”人達だからです。
+
 
 0:16:49.520,0:16:58.580
-Weird computer geeks, weird cryptographers
-who have weird ideas about privacy and freedom.
+おかしなコンピューター・オタク、プライバシーと自由について、おかしなアイデアを持ったおかしな暗号研究者。
 
 0:16:58.580,0:17:07.780
-These weird people are why I'm involved in Bitcoin,
-because I'm weird too and that's okay.
+これらのおかしな人々が、私がビットコインに関わっている理由です。なぜって私もおかしな人間だからで、それで全然いいんです。
 
 0:17:07.780,0:17:17.580
-If you take all of that out, what you're left with
--- this blockchain -- is a sterile,
+それら全部を取り去ったら、残されるのは - ブロックチェーン - 無味乾燥な何の面白味もないものです。
 
 0:17:17.580,0:17:22.900
-inexpressive, un-[innovative] environment.
+無表情で革新性のない環境。
 
 0:17:22.900,0:17:31.220
-A corporate plaything that has been sanitized of
-everything interesting and left as an empty shell.
+面白いもの全部が消毒され、残りの空っぽの外観で覆われた企業のおもちゃです。
 
 0:17:31.220,0:17:37.620
-It's basically a very slow database.
+基本的にはただの遅いデータベースです。
 
 0:17:37.620,0:17:44.820
-If someone comes to you and [asks],
-"Do I need a blockchain for my business," ask them:
+あなたのもとに誰かがやってきてこう尋ねたとします。
+「私のビジネスにブロックチェーンは必要でしょうか？」
 
 0:17:44.820,0:17:56.140
-"Do you need something that is open, neutral, borderless,
-which no one controls and resists censorship?"
+彼らに尋ねてください。
+「あなたのビジネスに、オープンで、中立的で、ボーダレスで、誰もコントロールする人がいなくて、検閲に抵抗する何かが必要ですか？」
 
 0:17:56.140,0:18:05.660
-If yes, then you need Bitcoin.
-Or Ethereum. Monero. Zcash.
+もし答えが「はい」なら、ビットコインが必要です。もしくはイーサリアム。Monero。Zcash。
 
 0:18:05.660,0:18:15.860
-Some open, public, blockchain cryptocurrency system
-that expresses these capabilities.
+そうした機能を持ったオープンでパブリックなブロックチェーン暗号通貨システムのどれかを使えばよい。
 
 0:18:15.860,0:18:19.980
-But if you don't need something that's open,
-borderless, neutral, censorship-resistant,
+でももし、オープンで、ボーダレスで、中立的で、対検閲性があり
 
 0:18:19.980,0:18:26.680
-and not controlled by anyone,
-what you're really asking for is a database.
+誰にもコントロールされない何かが必要ないなら、あなたが本当に必要としているのは、データベースです。
 
 0:18:26.680,0:18:32.760
-So install a database. You don't need a blockchain.
+なのでデータベースをインストールしてください。ブロックチェーンは必要ありません。
 
 0:18:32.760,0:18:41.520
-If you take all of the weird people out, with them goes
-all of the innovation, all of the interesting development.
+もしおかしな人々を取り出して、イノベーションもみんな、面白い開発なんかも全部、彼らと共に行ってしまわせて
+
 
 0:18:41.520,0:18:47.900
+いつも通りのビジネスをほんの今だけブロックチェーンでやりたいだけなら、
 If what you try to do is make business-as-usual,
 only now with a blockchain...
 
 0:18:47.900,0:18:52.920
-If the purpose of introducing
-this technology into your bank
+もしこのテクノロジーを、例えばあなたの銀行に導入する全ての目的が
 
 0:18:52.920,0:19:00.240
-is to be able to not change anything
-about how you do business...
+これまでのやり方を何一つ変えないようにする事なら、ブロックチェーンなど必要ないんです。
 
 0:19:00.240,0:19:08.440
-Or if your government says, "We will do a digital
-currency. We heard there's a digital currency...
+またはもし政府が「我々は貨幣をデジタル化します。オープンで、分散化された、ボーダレスで
 
 0:19:08.440,0:19:14.520
-using 'blockchain' that is open, decentralized,
-borderless, censorship-resistant, and neutral."
+対検閲性と中立性があるブロックチェーンを利用したデジタル貨幣があると聞いたもので。」
+
 
 0:19:14.520,0:19:22.440
-"We want to do just that, except we don't want it to be open, decentralized, censorship-resistant, neutral...
+「我々もちょっとやってみます。ただしオープンで、分散化されて、対検閲性と中立性があり
 
 0:19:22.440,0:19:28.820
-or borderless. We'd like that but we want it to be controlled within our borders, with the ability to control...
+ボーダレスである以外の形で。ぜひ必要ですね。でも国境内でコントロールできて、アクセス権を持つ人によって
 
 0:19:28.820,0:19:36.860
-who has access to it, with full censorship.
-We ultimately decide who has power on this system."
+コントロールする機能、完全な検閲機能も必要ですね。最終的には我々が誰がこのシステムの支配力を有するかを決定します。」
 
 0:19:36.880,0:19:47.000
-Also known as a database.
-You can build that and it will be boring.
+これらもまたデータベースとして知られてますね。
+もちろん作れるでしょう。でもつまらないものになる。
 
 0:19:47.000,0:19:54.120
-All of the innovation, all of the excitement, all of
-the reason why I'm interested in these technologies --
+この革新性の全て、興奮の全て、私がこのテクノロジーに興味がある理由の全ては
 
 0:19:54.120,0:20:00.640
-and perhaps why some of you are interested in
-these technologies -- is precisely because they're weird.
+もしかしたら皆さんの何人かもそうかもしれませんが、まさにこれらのテクノロジーが変わっていて少しおかしいからです。
 
 0:20:00.640,0:20:06.040
-Precisely because they're different, because
-they're open, because they allow everyone to innovate...
+まさしくこれらは他と違っていて、オープンだからです。
 
 0:20:06.040,0:20:10.360
-and express themselves creatively
-in ways that we don't anticipate.
+皆に革新性を与え、私たちが予測しなかった方法で創造的に自己表現ができるからです。
 
 0:20:10.360,0:20:20.500
-In ways that are completely unpredictable and, in
-some ways, that are offensive. That's okay.
+完全に予測不可能な方法で、そしていくつかの方法は誰かにとって攻撃的ですが、それでいいんです。
 
 0:20:20.500,0:20:29.680
-I don't want to live in a world of pastel colors, carefully
-curated advertising, marketing focused tested phrases,
-
-0:20:29.680,0:20:34.420
-where you can't say the bad words.
+私は、悪い言葉も言えないようなカラフルなキュレートされた広告、マーケティングにフォーカスしたテスト済みのフレーズ、パステルカラーの世界には住みたくはありません。
 
 0:20:34.420,0:20:42.260
-I want to live in a world with color, with creativity,
-with variety, with diversity, with ideas.
+私は、様々なカラー、クリエイティビティ、バラエティに富み、多様性とアイデアと共にある世界に住みたいです。
 
 0:20:42.260,0:20:47.600
-Ideas that sometimes offend me and scare me,
-that I don't understand, with weird people around me...
+自分が理解できないアイデアや、私の周りのおかしな人々は
 
 0:20:47.600,0:20:53.800
-who are free to express themselves,
-because that's where creativity comes from.
+自由に自分自身を表現して、時に私を攻撃したり怖がらせたりします。
+でもそれこそがクリエイティビティのやってくる源なんです。
 
-0:20:53.800,0:20:59.040
-It's not just Bitcoin. We're gonna see this happen again
-and again. We've already gone through the phase...
+0:20:53.800,0:20:59.0
+これは単にビットコインだけではありません。私たちは何度も何度も同じことを目にするでしょう。もうこの局面は経験済です。
 
 0:20:59.040,0:21:02.920
-where people said, "Yes, I'm interested
-in blockchain, but not Bitcoin."
+人々は言います。「えぇ、ブロックチェーンには興味がありますよ。ビットコインじゃなくね。」
 
 0:21:02.920,0:21:10.680
-When someone tells you, "I'm interested in blockchain
-but not Bitcoin," what they mean is "I don't understand."
+もし誰かがあなたに「ビットコインじゃなくてブロックチェーンに興味があります。」と言うならそれは「私は何も理解していない」という意味です。
 
 0:21:10.680,0:21:16.800
-Or they've heard someone else say it and
-they think they can be cool if they say that too.
+または誰か他の人がそういうのを聞いて、自分でもそう言うのがなんだかかっこいいなと思ったかです。
 
 0:21:16.800,0:21:25.860
-It's a bit like someone saying, "MySpace is so last year.
-I'm into Facebook now."
+それはちょうど誰かが「MySpaceなんて超古いよ。今は断然Facebookだよね。」と言ってたのと同じです。
 
 0:21:25.860,0:21:32.020
-It happened to Bitcoin, but it's going to keep happening.
-It's going to keep happening to every cryptocurrency...
+ビットコインにもそれが起こりましたし、これからも起こり続けるでしょう。
 
 0:21:32.020,0:21:36.400
-that dares to do something interesting.
+思い切って何か面白い事をしようとしている全ての暗号通貨に同じことが起こり続けます。
 
 0:21:36.400,0:21:44.000
-Right now, the big banks and governments,
-they're in love with Ethereum.
+まさに今、メガバンクや政府は、イーサリアムに恋しています。
 
 0:21:44.000,0:21:56.920
-They love the fact that Ethereum has all of these
-capabilities that seem much less weird than Bitcoin.
+彼らはイーサリアムがこうした機能を全部持っていながら、ビットコインよりだいぶ奇妙ではなさそうという事実が大好きなんです。
 
 0:21:56.920,0:22:05.160
-But they don't realize: all of the weirdness is still there.
-I love the weirdness in Ethereum because...
+でも彼らは気づいてないんです。まだおかしな所は全部そこに残ってるんですけどね。私はイーサリアムの変な所も好きですよ。
+
 
 0:22:05.160,0:22:11.080
-quite honestly, the whole point of Ethereum is to make
-unstoppable code, applications that you cannot turn off.
+なぜってだいぶ正直に言って、イーサリアムの本質は、電源オフにできない止まらないコード、アプリケーションを作る事だからです。
 
 0:22:11.080,0:22:16.340
-The reason you can't turn them off is
-because they're decentralized apps, DApps.
+電源をオフにできない理由は、それらは分散型アプリ、DAppsだからです。
 
 0:22:16.340,0:22:22.160
-Why make a DApp unless you wanted to
-make a DApp that somebody wants to turn off,
+なんでDAppを作るのか？誰かが電源を切りたくなるような
 
 0:22:22.160,0:22:24.800
-and you wanted to continue working?
+でもあなたはずっと動き続けてほしい
+そんなDAppを作りたい場合以外にはないでしょ？
 
 0:22:24.800,0:22:33.640
-The whole point of an uncensorable application is
-[writing] applications that are offensive to some people.
+検閲できないアプリケーションの本質は、誰かにとって攻撃的なアプリケーションをプログラムする事なんです。
 
 0:22:33.640,0:22:38.540
-People are going to write applications for
-Ethereum that are going to be offensive,
+なので人々がイーサリアムのアプリケーションを作る時、それらは攻撃的になります。
+
 
 0:22:38.540,0:22:45.320
-probably offensive to everyone in this room;
-maybe a bit offensive, maybe [very] offensive.
+おそらく、この部屋にいる皆さんに対して攻撃的になります。ちょっとだけかもしれないし、すごく攻撃的かもしれません。
 
 0:22:45.320,0:22:53.820
-Drug markets that cannot be shut down,
-sex markets that cannot be shut down.
+ドラッグ・マーケットはシャットダウンできないでしょう。セックスマーケットもシャットダウンできません。
 
 0:22:53.820,0:22:59.760
-All of the interesting applications you can do
-in a decentralized, neutral, unstoppable...
+実際の所、コード上、分散化され中立的で止める事ができない
 
 0:22:59.760,0:23:10.120
-environment for code are precisely
-applications that somebody wants to stop.
+そんな環境で使用できる面白いアプリケーションは全部、他の誰かにとってはまさにストップしたいアプリケーションなのです。
 
 0:23:10.120,0:23:18.560
-Those are even more powerful in the countries
-where the people who want to stop them are in power.
+そしてそれらは、そういったものを止めたい権力の座にいる人々がいる国々において、よりパワフルなんです。
 
 0:23:18.560,0:23:23.580
-If I'm in Russia and I want to put something on
-Ethereum, I'm going to put a Pussy Riot application...
+もし私がロシアにいるなら、イーサリアム上に何かを置きたいですね。プッシー・ライオット・アプリケーションでも作りましょう。
 
 0:23:23.580,0:23:31.120
-just so that I can annoy Putin.
-Can't stop it.
+プーチンをイラつかせますからね。止められないし。
 
 0:23:31.180,0:23:36.280
-In [China], they had a problem with
-sexual assaults at campuses.
+韓国では、大学でのセクハラが問題になっています。
 
 0:23:36.280,0:23:46.140
-The academic institutions tried to shut up the victims; they put their stories on the Ethereum blockchain...
+大学機関は被害者を黙らせようとしている。なら何があったかをイーサリアム・ブロックチェーン上に書き込みましょう。
 
 0:23:46.140,0:24:00.640
-so that they couldn't be censored. Any speech
-worth speaking offends someone, Oscar Wilde said.
+そうすればそれらは検閲できない。オスカー・ワイルドは言いました。
+“話す価値のあるスピーチはどれも、誰かを傷つける。”
 
 0:24:00.640,0:24:15.240
-Speaking the truth that somebody wants you not
-to publish is journalism; everything else is marketing.
+誰かが公開してほしくない真実を話すのがジャーナリズムです。それ以外の全部はマーケティングです。
 
 0:24:15.240,0:24:21.780
-At some point to the next couple of years, someone
-is going to write a weird application on Ethereum.
+これから数年間のどこかで、誰かがイーサリアム上に奇妙なアプリケーションを作成するでしょう。
 
 0:24:21.780,0:24:28.500
-The big banks and all of the organizations
-that today are absolutely enamored with Ethereum...
+そして今、イーサリアムに完全に夢中になっているメガバンクや企業は皆
 
 0:24:28.500,0:24:33.640
-[will] go running to the Ethereum Foundation
-and to the Ethereum Enterprise Alliance.
+イーサリアム財団やイーサリアムアライアンスに走って行って、こう言うでしょう。
+
 
 0:24:33.640,0:24:40.960
-They're going to say, "Hey, we'd like you to stop this."
+「ちょっと、これ止めてもらえませんか？」
 
 0:24:40.960,0:24:50.480
-And the Ethereum Foundation is going to say,
-most likely, "No, we won't." Or better yet, "We can't."
+イーサリアム財団はおそらくこう言います。
+「いいえ、私たちは止められません。」
+いやいっそこう言うでしょう。「私たちにはできません。」
+
 
 0:24:50.480,0:24:55.800
-"Submit your Ethereum Improvement Proposal.
-Let's see what the community thinks."
+「イーサリアム改善提案書をご提出ください。コミュニティの意見を聞いてみましょう。」
 
 0:24:55.800,0:25:02.800
-"Hey, community. Do you want to stop this application?
-Because JP Morgan Chase doesn't like it. No? Oops."
+「ねぇ、コミュニティ。このアプリケーションを止めたいですか？JPモルガンチェースが気に入らないみたいなんです。だめですか？おっと残念。」
 
 0:25:02.800,0:25:12.440
-Or maybe they decide to stop it and we get
-another hard fork. Then we have three Ethereums.
+もしくは、止める決定をするかもしれません。そしてまた別のハードフォークです。そうして3つ目のイーサリアムが登場します。
 
 0:25:12.440,0:25:18.420
-Ethereum, Ethereum Classic, and Ethereum Uncensored.
+イーサリアム。イーサリアム・クラシックそしてイーサリアム・アンセンサード。
 
 0:25:18.420,0:25:27.220
-Because you can't stop these things.
-All you can do is fork away a bullshit corporate version.
+なぜならこれらは止める事はできないからです。クソくだらない企業バージョンとしてフォークして離れ去るしかないのです。
 
 0:25:27.220,0:25:33.380
-But the other one continues to run.
-Then what do you have?
+でも、もう一方は動き続けます。
+そして何を手にしたでしょうか。
 
 0:25:33.380,0:25:37.080
-That's the moment you suddenly realize:
+その瞬間、私たちは突然気が付くのです。
 
 0:25:37.080,0:25:46.940
-this is the first time we have a digital
-community that can't be gentrified.
+これが私たちが初めて手に入れたジェントリフィケーションされないデジタル・コミュニティだと。
 
 0:25:46.940,0:25:53.220
-You can plant your Starbucks on the corner,
-but you can't kick out the weirdos.
+街の角にスターバックスは置けても、変な奴らを追い出すことはできない。
 
 0:25:53.220,0:26:02.440
-If you try to kick out the weirdos, we fork it
-and we take the neighborhood with us.
+もし追い出そうとするなら、我々はフォークして、その界隈と共に居続ける。
 
 0:26:02.440,0:26:11.620
-The weirdos own this neighborhood for the
-first time ever and they can't be kicked out.
+おかしなやつらが、史上初めて、自分たちの居場所を手に入れたのです。そしてもう追い出されることはないのです。
 
 0:26:11.620,0:26:16.940
-That's beautiful. That's what this is all about.
+これは本当に素晴らしい事です。これはまさにそういうことなのです。
 
 0:26:16.940,0:26:26.480
-For the first time, we now have digital communities
-that can't be taken over, polished, sanitized, sterilized...
+私たちは、乗っ取られ、磨かれ、消毒され、無菌化される事のない、史上初めてのデジタル・コミュニティを手に入れたのです。
 
 0:26:26.480,0:26:35.640
-of any idea worthwhile and turned into a plaything
-for Disney, McDonald's, Coca-Cola, JPMorgan Chase...
+あらゆる値打ちのあるアイデアが、ディズニーやマクドナルドやコカコーラ、JPモルガンチェースのおもちゃに変えられ
 
 0:26:35.640,0:26:43.240
-to shit all over the creativity and turn it
-into nothing, into empty marketing slogans.
+クリエイティビティにクソをまき散らし、無価値なものに変えられ、空っぽのマーケティング・スローガンになってしまう事がない場所です。
 
 0:26:43.240,0:26:51.080
-For the first time, we have digital
-communities that can't be gentrified.
+初めて、私たちはジェントリフィケーションされる事のないデジタル・コミュニティを手に入れました。
 
 0:26:51.080,0:26:58.360
-When people ask me, "Why are you excited
-about cryptocurrencies? Aren't they weird?"
+人々が私に「なぜそんなに暗号通貨に興奮しているのですか？暗号通貨ってなんか変じゃありません？」と尋ねる時、私は答えます。
 
 0:26:58.360,0:27:08.500
-I say, "Yes! They're weird, they're beautifully weird.
-That's why I'm interested in them."
+「そうです。変ですよ。美しいまでに変です。だからこそ、私は興味があるのです。」
 
 0:27:08.500,0:27:21.140
-My pledge, and the pledge of all the other people
-who are in this because it's weird, is to keep it weird.
+私の誓い、そして何か変だからこそ暗号通貨に参加している他の全ての皆さんとの誓約は、暗号通貨を、そしてそのコミュニティを、このままずっとおかしなままにしておく事です。
 
 0:27:21.140,0:27:27.980
-Thank you.
-[APPLAUSE]
+ありがとうございました。

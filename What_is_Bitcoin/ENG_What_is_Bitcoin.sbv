@@ -1,0 +1,677 @@
+0:00:00.000,0:00:23.660
+[Music introduction]
+
+0:00:23.660,0:00:28.840
+Καλησπέρα, Αθήνα. Good afternoon, Athens.
+Thank you for having me today.
+
+0:00:28.840,0:00:37.220
+You want disrupt? I got disrupt.
+No. I have downright revolution.
+
+0:00:37.220,0:00:45.980
+We will talk about the most exciting, interesting,
+and probably important technological innovation...
+
+0:00:45.980,0:00:50.060
+and invention in computer science
+within the last twenty years.
+
+0:00:50.060,0:00:55.340
+I am here to talk about Bitcoin.
+Perhaps you have heard about Bitcoin before.
+
+0:00:55.360,0:01:01.440
+Let's do a quick check. How many of
+you have heard of bitcoin before today?
+
+0:01:01.440,0:01:09.720
+All right, we have a good crowd.
+How many of you own bitcoin? Even better.
+
+0:01:09.720,0:01:15.340
+Bitcoin is digital money,
+but it is so much more than that.
+
+0:01:15.340,0:01:25.880
+Bitcoin is digital money like the internet
+is a fancy telephone, or all about email.
+
+0:01:25.880,0:01:29.520
+Money is just the first application.
+
+0:01:29.520,0:01:38.220
+Bitcoin is a technology, a currency,
+and an international payment network.
+
+0:01:38.220,0:01:48.120
+It is decentralized. It doesn't rely on banks or 
+governments. We have never done this before...
+
+0:01:48.120,0:01:50.360
+in the history of humanity.
+
+0:01:50.360,0:01:58.920
+This invention is truly revolutionary. When we look
+back, we will see that this was a historic moment...
+
+0:01:58.920,0:02:05.440
+in the evolution of not only computer science,
+but a socio-political revolution in the making.
+
+0:02:05.440,0:02:09.360
+Let's get started. Bitcoin is digital money.
+
+0:02:09.360,0:02:14.300
+Euros and dollars are also digital, but 
+bitcoin is not owned by a government.
+
+0:02:14.300,0:02:25.520
+You can send it from anywhere in the world,
+near instantaneously, securely, and for minimal fees.
+
+0:02:25.520,0:02:30.460
+Two days ago, we saw one of the largest transactions
+ever recorded on the Bitcoin network.
+
+0:02:30.460,0:02:42.280
+Someone transferred $150 million [worth 
+of bitcoin] in [about ten minutes], for zero fees.
+
+0:02:42.280,0:02:52.980
+That should allow you to grasp how disruptive this
+will be, in terms of international payment systems.
+
+0:02:52.980,0:02:56.120
+But this is just the beginning.
+
+0:02:56.120,0:03:04.420
+Bitcoin is a digital currency that was invented
+in 2008 by a person called Satoshi Nakamoto.
+
+0:03:04.420,0:03:11.840
+He published a paper where he posited that he
+had found a way to create a decentralized network,
+
+0:03:11.840,0:03:18.960
+that could achieve consensus / agreement 
+without any central controlling authority.
+
+0:03:18.960,0:03:25.640
+If you study computer science or distributed systems,
+this is known as the Byzantine Generals' Problem.
+
+0:03:25.640,0:03:31.720
+It was first described in [1982].
+Until 2008, it was an unsolved problem.
+
+0:03:31.720,0:03:39.360
+But we understood the importance of solving it.
+Satoshi Nakamoto said that he had solved it.
+
+0:03:39.360,0:03:45.820
+Guess what happened next? Everybody laughed.
+Many ignored and dismissed him.
+
+0:03:45.820,0:03:55.500
+He published the whitepaper. Three months later,
+he published the software to start the Bitcoin network.
+
+0:03:55.500,0:04:05.640
+Bitcoin is not a company or organization.
+It is a standard protocol, just like TCP/IP for the internet.
+
+0:04:05.640,0:04:10.460
+It is not owned by anyone [single entity].
+It operates based on mathematical rules.
+
+0:04:10.460,0:04:14.000
+Everyone who participates in
+the network must agree on them.
+
+0:04:14.000,0:04:25.820
+Bitcoin is a decentralized network of computers that,
+through this consensus mechanism, agree on...
+
+0:04:25.820,0:04:34.040
+what transactions have occurred on the network,
+and who currently owns what money.
+
+0:04:34.040,0:04:44.120
+If I send money to somebody else's "account"
+in this peer-to-peer network, like sending email,
+
+0:04:44.120,0:04:45.480
+there is no one in the middle.
+
+0:04:45.480,0:04:50.800
+[The bitcoin transaction is broadcast] from
+my computer to the recipient's computer,
+
+0:04:50.800,0:04:52.920
+without intervention.
+
+0:04:52.920,0:04:58.220
+Every ten minutes, the network agrees
+on what transactions have happened,
+
+0:04:58.220,0:05:04.220
+without any centralized authority,
+a kind of election that occurs electronically.
+
+0:05:04.220,0:05:09.280
+This particular solution [to the Byzantine Generals'
+Problem] is far more important than currency.
+
+0:05:09.280,0:05:16.480
+Currency is just the first application that you
+can build on a distributed consensus system.
+
+0:05:16.480,0:05:27.040
+Other applications include voting, stock ownership,
+asset registration, notarization, and many others.
+
+0:05:27.040,0:05:33.820
+Applications we have never thought of before.
+I discovered Bitcoin for the first time in 2011.
+
+0:05:33.820,0:05:36.740
+Since [the early days of] the internet,
+
+0:05:36.740,0:05:42.820
+I have not felt this feeling of being completely
+overwhelmed by the possibilities I saw.
+
+0:05:42.820,0:05:47.940
+I was there at the dawn of the internet
+in 1991, when it was pre-commercial.
+
+0:05:47.940,0:05:53.840
+I could see that this would change the world.
+I told everyone around me, but no one believed me.
+
+0:05:53.840,0:05:59.920
+I have that exact same feeling about Bitcoin.
+Some of you may have heard of bitcoin as a currency,
+
+0:05:59.920,0:06:07.820
+as a system of money that is currently 
+wildly high in price one day and low the next.
+
+0:06:07.820,0:06:16.140
+I am here to tell you to ignore the price, ignore bitcoin
+the money, but understand Bitcoin the technology...
+
+0:06:16.140,0:06:19.260
+and the network it creates.
+
+0:06:19.260,0:06:24.260
+If we mess up the money,
+we can just reboot another currency.
+
+0:06:24.260,0:06:34.200
+Bitcoin the technology cannot be uninvented.
+It creates the possibility for decentralized organization...
+
+0:06:34.200,0:06:39.720
+on a scale never seen before on this planet.
+
+0:06:39.720,0:06:49.880
+Here is why it's important to me: today in the world,
+approximately one billion people have banking,
+
+0:06:49.880,0:06:57.920
+access to credit and international finance capabilities,
+primarily among the upper classes and western nations.
+
+0:06:57.920,0:07:04.180
+Six and a half billion people on this planet 
+have no connection to the world of [banking].
+
+0:07:04.180,0:07:11.700
+They operate in cash based societies with 
+very little access to any international resources.
+
+0:07:11.700,0:07:21.720
+But they don't need banks. Two billion people are already
+on the internet; with a simple application download,
+
+0:07:21.720,0:07:28.920
+they can become participants in an international
+economy, using an international currency that...
+
+0:07:28.920,0:07:32.880
+can be transmitted anywhere with [little
+or] no fees, and no government controls.
+
+0:07:32.880,0:07:42.540
+They can connect to a world of international,
+peer-to-peer finance. Bitcoin is the money of the people.
+
+0:07:42.540,0:07:49.600
+[It operates according to] mathematical rules
+that everyone agrees on. No [centralized] control.
+
+0:07:49.600,0:07:57.260
+Bring six and a half billion people into productive society,
+connecting them to the rest of the world,
+
+0:07:57.260,0:08:00.400
+is truly revolutionary.
+
+0:08:00.400,0:08:07.560
+First, we will start by affecting the payment processors,
+these enormous companies that make it...
+
+0:08:07.560,0:08:13.380
+more expensive to send money
+the poorer the destination country is.
+
+0:08:13.380,0:08:17.780
+This situation is exploitative and corrupt.
+
+0:08:17.780,0:08:26.580
+These organizations profit enormously for a function 
+that can be done in bitcoin for [little or no fee].
+
+0:08:26.580,0:08:35.560
+As an adage of the internet once went, I just replaced
+your entire industry with a hundred lines of Python.
+
+0:08:35.560,0:08:40.400
+That is exactly what we will do with Bitcoin.
+
+0:08:40.400,0:08:48.960
+How can you use bitcoin today? Simply 
+speaking, bitcoin can operate as a currency.
+
+0:08:48.960,0:08:51.920
+You can think of it as buying a foreign currency.
+
+0:08:51.920,0:09:00.680
+You can connect to an exchange over the web,
+wire some euros, and use them to buy bitcoin...
+
+0:09:00.680,0:09:03.480
+at the current exchange rate.
+
+0:09:03.480,0:09:10.440
+But that is not really the right way to do it. 
+We are entrepreneurs, right? We want to disrupt.
+
+0:09:10.440,0:09:17.340
+The best way [to obtain bitcoin] is by 
+finding a product or service you can offer...
+
+0:09:17.340,0:09:19.880
+that someone with bitcoin would want to buy.
+
+0:09:19.880,0:09:23.580
+Start by earning bitcoin.
+
+0:09:23.580,0:09:32.740
+If you want to start a business, there are 
+two barriers to becoming a global business.
+
+0:09:32.740,0:09:40.140
+The first barrier: it is difficult to transport 
+products and services across borders.
+
+0:09:40.140,0:09:48.380
+With the internet, we solved that. We can now create
+products and services to sell that are virtual.
+
+0:09:48.380,0:09:54.680
+We could sell and deliver anywhere in the 
+world, but we still had one big problem.
+
+0:09:54.680,0:09:58.880
+How do we get paid?
+Bitcoin solves that part.
+
+0:09:58.880,0:10:06.120
+It allows us to receive payments from 
+anywhere in the world, near instantaneously.
+
+0:10:06.120,0:10:16.880
+The Bitcoin network allows any individual to send
+an amount as small one hundred millionth of a bitcoin,
+
+0:10:16.880,0:10:23.000
+which in today's terms is
+a very tiny amount of money.
+
+0:10:23.000,0:10:26.240
+You can't do that with traditional
+money and payment systems.
+
+0:10:26.240,0:10:33.060
+Credit cards were made in the 1950s, 
+certainly not made for an internet age.
+
+0:10:33.060,0:10:35.820
+Bitcoin is made for the internet age.
+
+0:10:35.820,0:10:43.520
+If you can send payments that are one hundredth
+or thousandth of a euro, you can sell content...
+
+0:10:43.520,0:10:46.300
+with microtransactions.
+
+0:10:46.300,0:10:55.240
+You can collect tiny payments from millions of people
+and then aggregate them to be worth something.
+
+0:10:55.240,0:11:05.880
+On the same network where you can send one
+thousandth of a euro, you can send one billion euros.
+
+0:11:05.880,0:11:12.460
+The fee could be exactly the same, because
+it depends on the size of the transaction in kilobytes,
+
+0:11:12.460,0:11:15.500
+not the [value of the money].
+
+0:11:15.500,0:11:21.720
+Let's look back at the internet, the lessons 
+we learned, and why bitcoin is important.
+
+0:11:21.720,0:11:26.120
+One of the most important principles
+on the internet is neutrality.
+
+0:11:26.120,0:11:31.520
+The internet doesn't distinguish between 
+large organizations and small organizations.
+
+0:11:31.520,0:11:36.960
+It doesn't know the difference
+between CNN and an Egyptian blogger.
+
+0:11:36.960,0:11:46.380
+It provides the opportunity for a blogger to speak to
+the world with the same power of voice that CNN has.
+
+0:11:46.380,0:11:52.840
+Bitcoin is neutral to sender and recipient,
+as well as to the value of a transaction.
+
+0:11:52.840,0:12:01.800
+That means every citizen and user of 
+Bitcoin has the ability to innovate in finance.
+
+0:12:01.800,0:12:10.580
+Instruments, payment systems, and currency,
+with the same facilities that a bank has.
+
+0:12:10.580,0:12:20.580
+You can become Citibank.
+That is truly revolutionary.
+
+0:12:20.580,0:12:29.680
+It [transforms] a hierarchical system of international
+finance that achieved security by limiting access.
+
+0:12:29.680,0:12:36.440
+That is the method of "trust" on our payment systems.
+You can't get in unless you are vetted.
+
+0:12:36.440,0:12:44.920
+Bitcoin turns that on its head, with a flat and
+decentralized network where every node is equal.
+
+0:12:44.920,0:12:51.640
+The protocol is neutral to the transactions 
+and pushes innovation to the edge of the network.
+
+0:12:51.640,0:12:58.760
+This creates the same phenomenon we saw
+on the internet: innovation without permission.
+
+0:12:58.760,0:13:04.800
+You don't need to ask anyone for your 
+application to be published on the internet.
+
+0:13:04.800,0:13:11.280
+You don't need to ask anyone to completely subvert
+a new industry with your information technology.
+
+0:13:11.280,0:13:18.660
+On Bitcoin, you don't need to ask anyone to invent a
+new financial instrument, payment system, or service.
+
+0:13:18.660,0:13:25.300
+You can just do it. You can just write the code.
+You are now part of an international financial network.
+
+0:13:25.300,0:13:30.540
+You can run that code and come
+in contact with millions of consumers.
+
+0:13:30.540,0:13:40.620
+Now, it is still early days. We don't yet have 
+the polished interfaces. It is difficult to use.
+
+0:13:40.620,0:13:53.120
+[The media says] it is used by criminals,
+but it is not easy to see who is using bitcoin.
+
+0:13:53.120,0:13:56.140
+I have heard all of those [accusations] before.
+
+0:13:56.140,0:14:05.800
+When I was on the internet in 1991, it was "a den
+of thieves," pornographers, pirates, and criminals.
+
+0:14:05.800,0:14:13.640
+But it didn't matter and it doesn't matter now,
+because the same power of the technology,
+
+0:14:13.640,0:14:21.440
+used by a criminal to promote their criminal activities,
+can be used by all the rest of us to do good,
+
+0:14:21.440,0:14:25.620
+to do incredible things all across the world.
+
+0:14:25.620,0:14:35.340
+There are more of us. Bitcoin creates an environment
+that is ripe for innovation. It is not just a currency.
+
+0:14:35.340,0:14:39.400
+It is a technology, a network, and a currency.
+
+0:14:39.400,0:14:47.440
+I can tell you, I am very happy that bitcoin's price is
+climbing. I own some bitcoins, and it feels kind of nice.
+
+0:14:47.440,0:14:52.820
+But I don't care about the price.
+If Bitcoin crashed tomorrow morning,
+
+0:14:52.820,0:14:56.500
+the technology is still revolutionary.
+
+0:14:56.500,0:15:07.220
+If a website or application fails,
+the internet doesn't go away.
+
+0:15:07.220,0:15:13.860
+If you understand that Bitcoin is a technology, not just
+a currency, you can truly grasp its the importance.
+
+0:15:13.860,0:15:21.700
+Again, it is not just about us.
+It is about the other six billion.
+
+0:15:21.700,0:15:28.740
+It is about bringing financial integration 
+that the world has never seen before.
+
+0:15:28.740,0:15:34.040
+From our perspective, it is a great technology
+we can use for disruptive Innovation.
+
+0:15:34.040,0:15:37.260
+We can build some interesting services.
+
+0:15:37.260,0:15:47.040
+If you are a Kenyan farmer raising money to buy seeds,
+you can join in decentralized, peer-to-peer lending,
+
+0:15:47.040,0:15:57.320
+and reach out to lenders all across the globe.
+This is not just a technology, it is life-changing.
+
+0:15:57.320,0:16:05.860
+The impact Bitcoin will have on the vast majority of the
+world which lives under repressive and corrupt regimes,
+
+0:16:05.860,0:16:11.280
+with central banks that impose 
+hyperinflation of 30% or more per month.
+
+0:16:11.280,0:16:17.200
+It is more important to see how
+Bitcoin can affect all of those people.
+
+0:16:17.200,0:16:21.960
+There are two billion people on the internet;
+only one billion of them have bank accounts.
+
+0:16:21.960,0:16:25.880
+We can change that. It will not be easy.
+
+0:16:25.880,0:16:30.480
+Make no mistake about it, when you 
+[introduce] a disruptive technology into...
+
+0:16:30.480,0:16:36.940
+the middle of the most powerful organizations
+[and governments] on the planet, they won't like it.
+
+0:16:36.940,0:16:40.100
+Right now, we are still in the early stages.
+
+0:16:40.100,0:16:48.540
+To use a trite expression, "First they ignore us, then
+they laugh at us, then they fight us, and then we win."
+
+0:16:48.540,0:16:53.460
+We are still at the laughing stage,
+and that is quite all right.
+
+0:16:53.460,0:17:00.480
+By the time they start fighting us, they will have
+already lost. This technology will be global.
+
+0:17:00.480,0:17:07.400
+More than $2.5 billion dollars has come from Chinese
+investors who discovered a counterbalance...
+
+0:17:07.400,0:17:11.980
+to world domination by the global
+reserve currency of the U.S. dollar.
+
+0:17:11.980,0:17:18.540
+There are about 180 currencies in the world,
+but there is only one international currency.
+
+0:17:18.540,0:17:26.840
+There are about 180 currencies controlled by central
+banks and governments, but only one is mathematical.
+
+0:17:26.840,0:17:31.200
+That is bitcoin. We will build more of them.
+
+0:17:31.200,0:17:36.460
+Cryptographic currencies will be
+a mainstay of our financial future.
+
+0:17:36.460,0:17:47.940
+They will be part of the future of this planet.
+They [can't be] uninvented, and it is as simple as that.
+
+0:17:47.940,0:17:51.920
+You cannot turn that omelet back into eggs.
+
+0:17:51.920,0:17:58.020
+There are already have more than
+a hundred competing currencies.
+
+0:17:58.020,0:18:03.920
+This shows how quickly innovation has 
+exploded beyond bitcoin the currency.
+
+0:18:03.920,0:18:10.660
+There are many alternative coins, altcoins as
+they're known, that use the same basic technology:
+
+0:18:10.660,0:18:18.340
+a decentralized consensus network and an asset ledger.
+
+0:18:18.340,0:18:27.060
+There [can be] other forms of currency that are
+inflationary or deflationary, that use demurrage...
+
+0:18:27.060,0:18:29.100
+or negative interest rates.
+
+0:18:29.100,0:18:35.980
+Currencies that redistribute a proportion
+of the income to charitable organisations.
+
+0:18:35.980,0:18:42.600
+We can invent new forms of
+money and financial instruments.
+
+0:18:42.600,0:18:46.480
+Bitcoin is programmable money.
+
+0:18:46.480,0:18:51.360
+Once you have programmable money,
+the possibilities are truly endless.
+
+0:18:51.360,0:18:58.140
+Many of the basic concepts in our current 
+system depend on legal contracts.
+
+0:18:58.140,0:19:07.920
+We can convert them into algorithmic contracts
+that can be enforced on the Bitcoin network.
+
+0:19:07.920,0:19:21.740
+As I said before, there is no counterparty. If I choose to
+send value to another part of the peer-to-peer network.
+
+0:19:21.740,0:19:23.880
+no one is in between.
+
+0:19:23.880,0:19:31.260
+if I invent a new form of money, I can deploy it
+to the entire world and invite others to join me.
+
+0:19:31.260,0:19:40.320
+If you see that Bitcoin has the [potential]
+to not only introduce money for the internet...
+
+0:19:40.320,0:19:49.740
+Because it is the perfect money for
+the internet: instant, safe, and free.
+
+0:19:49.740,0:19:56.800
+Yes, it is money for the internet, but it is also
+so much more. Bitcoin is the internet of money.
+
+0:19:56.800,0:20:08.360
+Currency is only the first application. If you grasp that,
+you can look beyond the fad and the price volatility.
+
+0:20:08.360,0:20:16.940
+At its core, it is a revolutionary technology that will
+change the world forever. Join me in this revolution.
+
+0:20:16.940,0:20:26.800
+Thank you. [Applause]

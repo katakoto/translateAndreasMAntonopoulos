@@ -17,5 +17,6 @@ Youtubeで閲覧できる真のビットコイン伝道者[アンドレアス・
 - [x] [Keeping Digital Communities Weird](https://youtu.be/1MG1aR71uFg)(Approved on 6/20/2020)
 - [x] [What is Mining?](https://youtu.be/t4p4iMqmxbQ)(Approved on 6/20/2020)
 - [ ] [Bitcoin is Punk Rock](https://youtu.be/A6kJfvuNqtg)
+- [ ] [What is Bitcoin?](https://youtu.be/LA9A1RyXv9s)
 
 Translated by [@katakoto](https://twitter.com/katakoto):+1:

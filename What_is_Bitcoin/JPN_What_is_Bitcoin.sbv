@@ -117,99 +117,81 @@
 ビットコインは、このコンセンサスの仕組みを介して、ネットワーク上でどのような取引が発生したか、現在誰がどのようなお金を所有しているかについて合意するコンピュータの分散型ネットワークです。
 
 0:04:34.040,0:04:44.120
-If I send money to somebody else's "account"
-in this peer-to-peer network, like sending email,
+もし私が、電子メールを送るみたいに
+お金を他の誰かの“口座”にピア・ツー・ピアネットワークで送ったなら
+
 
 0:04:44.120,0:04:45.480
-there is no one in the middle.
+間に仲介者は誰もいません。
 
 0:04:45.480,0:04:50.800
-[The bitcoin transaction is broadcast] from
-my computer to the recipient's computer,
+私のコンピューターから受信者のコンピューターへと何の介入もなしに。[ビットコインのトランザクションはブロードキャストされます。]
 
-0:04:50.800,0:04:52.920
-without intervention.
 
 0:04:52.920,0:04:58.220
-Every ten minutes, the network agrees
-on what transactions have happened,
+10分毎に、ネットワークはどんなトランザクションが生じたかの合意に達します。
 
 0:04:58.220,0:05:04.220
-without any centralized authority,
-a kind of election that occurs electronically.
+いかなる中央集権的な権限もなしに、ある意味電子的に行われる選挙によってです。
+
 
 0:05:04.220,0:05:09.280
-This particular solution [to the Byzantine Generals'
-Problem] is far more important than currency.
+この特定の[ビザンチン将軍問題への]解決策は、通貨よりももっともっと重要です。
 
 0:05:09.280,0:05:16.480
-Currency is just the first application that you
-can build on a distributed consensus system.
+通貨は、分散型コンセンサスシステム上に構築できる最初のアプリにすぎません。
 
 0:05:16.480,0:05:27.040
-Other applications include voting, stock ownership,
-asset registration, notarization, and many others.
+他の用途として、投票、株式所有権、資産登録、公証、その他多くのアプリがあります。
 
 0:05:27.040,0:05:33.820
-Applications we have never thought of before.
-I discovered Bitcoin for the first time in 2011.
+以前には考えた事もなかったアプリケーション。
+私が初めてビットコインを発見したのは2011年の事です。
 
 0:05:33.820,0:05:36.740
-Since [the early days of] the internet,
+[初期の時代の]インターネット以来
 
 0:05:36.740,0:05:42.820
-I have not felt this feeling of being completely
-overwhelmed by the possibilities I saw.
+自分が見た可能性にここまで完全に圧倒されるような感覚は、今まで感じたことがありません。
 
 0:05:42.820,0:05:47.940
-I was there at the dawn of the internet
-in 1991, when it was pre-commercial.
+私も1991年の商用化前だったインターネットの夜明けの時代にいました。
 
 0:05:47.940,0:05:53.840
-I could see that this would change the world.
-I told everyone around me, but no one believed me.
+私にはこれが世界を変えるテクノロジデーであることがわかりました。
+周りにいる皆にそう言って歩きましたが、誰も私の言うことを信じませんでした。
 
 0:05:53.840,0:05:59.920
-I have that exact same feeling about Bitcoin.
-Some of you may have heard of bitcoin as a currency,
+それと全く同じ感覚をビットコインに感じています。
+皆さんの何人かはビットコインは通貨だと聞いたことがあると思います。
 
 0:05:59.920,0:06:07.820
-as a system of money that is currently
-wildly high in price one day and low the next.
+お金のシステムとして、現在、値段はある時はむやみやたらに高かったり次の日には安かったりしています。
 
 0:06:07.820,0:06:16.140
-I am here to tell you to ignore the price, ignore bitcoin
-the money, but understand Bitcoin the technology...
+私が皆さんにこの場で言いたいのは、値段は無視してくださいということ。お金としてのビットコインの値段は無視して、テクノロジーとしてのビットコインと
 
 0:06:16.140,0:06:19.260
-and the network it creates.
+ビットコインが作り上げるネットワークを理解してくださいということ。
 
 0:06:19.260,0:06:24.260
-If we mess up the money,
-we can just reboot another currency.
+もしお金でしくじってしまったのなら、単に別の通貨をまた立ち上げればいいのです。
 
 0:06:24.260,0:06:34.200
-Bitcoin the technology cannot be uninvented.
-It creates the possibility for decentralized organization...
-
-0:06:34.200,0:06:39.720
-on a scale never seen before on this planet.
+ビットコインのテクノロジーは、もう発明されなかったことにはできません。このテクノロジーは、この惑星で見たことのないスケールの分散型組織の可能性を作り出します。
 
 0:06:39.720,0:06:49.880
-Here is why it's important to me: today in the world,
-approximately one billion people have banking,
+これがビットコインが私にとってなぜ重要なのか、その理由です。
+今日の世界では、およそ10億人の人々が銀行口座を持ち、
 
 0:06:49.880,0:06:57.920
-access to credit and international finance capabilities,
-primarily among the upper classes and western nations.
+主に上流階級や西欧諸国の中で、クレジットへのアクセスや国際金融を扱う能力を有しています。
 
 0:06:57.920,0:07:04.180
-Six and a half billion people on this planet
-have no connection to the world of [banking].
+この地球上の6億5000万人の人々は、銀行の世界へのコネクションが何もありません。
 
 0:07:04.180,0:07:11.700
-They operate in cash based societies with
-very little access to any international resources.
+彼らは他のあらゆる国政資源へのアクセスがほとんどないキャッシュベースの社会で暮らしています。
 
 0:07:11.700,0:07:21.720
 But they don't need banks. Two billion people are already
@@ -653,4 +635,4 @@ At its core, it is a revolutionary technology that will
 change the world forever. Join me in this revolution.
 
 0:20:16.940,0:20:26.800
-Thank you. [Applause]
+ありがとうございました。[拍手]

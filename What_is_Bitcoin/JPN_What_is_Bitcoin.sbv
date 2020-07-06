@@ -1,5 +1,5 @@
 0:00:00.000,0:00:23.660
-[Music introduction]
+[ミュージック]
 
 0:00:23.660,0:00:28.840
 Καλησπέρα, Αθήνα. こんにちは、アテネの皆さん。
@@ -297,309 +297,244 @@ Webを通して取引所にアクセスし、いくらかのユーロを送金�
 ビットコインはインターネット時代向けに作られました。
 
 0:10:35.820,0:10:43.520
-If you can send payments that are one hundredth
-or thousandth of a euro, you can sell content...
+100分の1、1000分の1ユーロの支払いを送れるようになれば
 
 0:10:43.520,0:10:46.300
-with microtransactions.
+コンテンツを少額取引で売れるようになります。
 
 0:10:46.300,0:10:55.240
-You can collect tiny payments from millions of people
-and then aggregate them to be worth something.
+何百万人もの人から少額の支払いを集めれば、それを束ねて何か価値あるものにできます。
 
 0:10:55.240,0:11:05.880
-On the same network where you can send one
-thousandth of a euro, you can send one billion euros.
+1000分の1ユーロの支払いを送れる同じネットワークで、10億ユーロも送ることができます。
 
 0:11:05.880,0:11:12.460
-The fee could be exactly the same, because
-it depends on the size of the transaction in kilobytes,
+費用はまったく同じです。なぜなら費用はキロバイト単位の取引サイズによるからです。
 
 0:11:12.460,0:11:15.500
-not the [value of the money].
+送金額ではないのです。
 
 0:11:15.500,0:11:21.720
-Let's look back at the internet, the lessons
-we learned, and why bitcoin is important.
+インターネットと学んだ教訓を振り返ってみましょう。そしてなぜビットコインが重要なのか。
 
 0:11:21.720,0:11:26.120
-One of the most important principles
-on the internet is neutrality.
+インターネットの最も重要な原則の1つは、中立性です。
 
 0:11:26.120,0:11:31.520
-The internet doesn't distinguish between
-large organizations and small organizations.
+インターネットは大きな組織と小さな組織を区別しません。
 
 0:11:31.520,0:11:36.960
-It doesn't know the difference
-between CNN and an Egyptian blogger.
+CNNとエジプトのブロガーの違いを知りません。
 
 0:11:36.960,0:11:46.380
-It provides the opportunity for a blogger to speak to
-the world with the same power of voice that CNN has.
+ブロガーにCNNが持っているのと同じパワーの声で世界に伝える機会を与えます。
 
 0:11:46.380,0:11:52.840
-Bitcoin is neutral to sender and recipient,
-as well as to the value of a transaction.
+ビットコインは送信者と受信者に対しても、取引の額に対しても中立です。
 
 0:11:52.840,0:12:01.800
-That means every citizen and user of
-Bitcoin has the ability to innovate in finance.
+それはつまり、全ての市民、ビットコイン・ユーザーがファイナンスに革新をもたらす力を持つ事を意味します。
 
 0:12:01.800,0:12:10.580
-Instruments, payment systems, and currency,
-with the same facilities that a bank has.
+金融商品、決済システム、そして通貨を銀行が持っているのと同じ便宜で使えるのです。
 
 0:12:10.580,0:12:20.580
-You can become Citibank.
-That is truly revolutionary.
+あなたはシティバンクになれるのです。これは本当に革命的な事です。
 
 0:12:20.580,0:12:29.680
-It [transforms] a hierarchical system of international
-finance that achieved security by limiting access.
+これはアクセスを制限する事で安全性を実現していた階層的な国際金融システムを一変させます。
 
 0:12:29.680,0:12:36.440
-That is the method of "trust" on our payment systems.
-You can't get in unless you are vetted.
+それが私たちの決済システムの“信用”の方法です。厳しく吟味されない限り入り込めない。
 
 0:12:36.440,0:12:44.920
-Bitcoin turns that on its head, with a flat and
-decentralized network where every node is equal.
+ビットコインは、全てのノードが平等なフラットで分散型のネットワークを使って、それをひっくり返します。
 
 0:12:44.920,0:12:51.640
-The protocol is neutral to the transactions
-and pushes innovation to the edge of the network.
+このプロトコルは取引に対して中立であり、ネットワークの端までイノベーションを押し進めます。
 
 0:12:51.640,0:12:58.760
-This creates the same phenomenon we saw
-on the internet: innovation without permission.
+これはインターネット上で見たのと同じ現象を作り出します。許可のいらないイノベーション。
 
 0:12:58.760,0:13:04.800
-You don't need to ask anyone for your
-application to be published on the internet.
+インターネット上でアプリを公開するのに誰かの許可を得る必要はありません。
 
 0:13:04.800,0:13:11.280
-You don't need to ask anyone to completely subvert
-a new industry with your information technology.
+ITを使って新しい業界を完全に破壊するのに誰かにお願いする必要はないんです。
 
 0:13:11.280,0:13:18.660
-On Bitcoin, you don't need to ask anyone to invent a
-new financial instrument, payment system, or service.
+ビットコインでも、新しい金融機関・決済システムやサービスを発明するのを誰かにお願いする必要はありません。
 
 0:13:18.660,0:13:25.300
-You can just do it. You can just write the code.
-You are now part of an international financial network.
+あなたがただやればいいんです。あなたがただコードを書けばよい。今やあなたは国際的な金融ーネットワークの一部です。
+
 
 0:13:25.300,0:13:30.540
-You can run that code and come
-in contact with millions of consumers.
+そのコードを実行すれば何百万人ものお客さんとコンタクトできる。
 
 0:13:30.540,0:13:40.620
-Now, it is still early days. We don't yet have
-the polished interfaces. It is difficult to use.
+今はまだまだ初期段階です。洗練されたインターフェイスもまだありません。使いにくいです。
 
 0:13:40.620,0:13:53.120
-[The media says] it is used by criminals,
-but it is not easy to see who is using bitcoin.
+[メディアは]ビットコインは犯罪者によって使われていると言いますが、誰が使っているのかを確認するのは簡単ではありません。
 
 0:13:53.120,0:13:56.140
-I have heard all of those [accusations] before.
+こうしたあらゆる非難は以前にも聞いたものです。
 
 0:13:56.140,0:14:05.800
-When I was on the internet in 1991, it was "a den
-of thieves," pornographers, pirates, and criminals.
+1991年にネットをやっていた頃は「泥棒の巣窟」「ポルノグラファー」「海賊」「犯罪者」でした。
 
 0:14:05.800,0:14:13.640
-But it didn't matter and it doesn't matter now,
-because the same power of the technology,
+でもそれはたいした事ではなかったし、今でもたいした事ではないんです。
+なぜって、犯罪者によって犯罪行為を促進するのと同じ力を持つテクノロジーが
 
 0:14:13.640,0:14:21.440
-used by a criminal to promote their criminal activities,
-can be used by all the rest of us to do good,
+私たち残り全員によって善き事のため、世界中で素晴らしい事のために使えるのですから。
 
-0:14:21.440,0:14:25.620
-to do incredible things all across the world.
 
 0:14:25.620,0:14:35.340
-There are more of us. Bitcoin creates an environment
-that is ripe for innovation. It is not just a currency.
+もっと多くの人々がいるんです。ビットコインはイノベーションのために熟したかんっ教を作り出します。ただの通貨ではないんです。
 
 0:14:35.340,0:14:39.400
-It is a technology, a network, and a currency.
+これは、テクノロジーであり、ネットワークであり、そして通貨なのです。
 
 0:14:39.400,0:14:47.440
-I can tell you, I am very happy that bitcoin's price is
-climbing. I own some bitcoins, and it feels kind of nice.
+確かに、ビットコインの価格が上昇して私はとても嬉しいです。いくらかのビットコインを所有していますから、ある意味とてもいい気分です。
 
 0:14:47.440,0:14:52.820
-But I don't care about the price.
-If Bitcoin crashed tomorrow morning,
+ですが、私は価格は気にしていません。ビットコインの価格が明日の朝クラッシュしても
 
 0:14:52.820,0:14:56.500
-the technology is still revolutionary.
+そのテクノロジーはいまだ革新的なのです。
 
 0:14:56.500,0:15:07.220
-If a website or application fails,
-the internet doesn't go away.
+ウェブサイトやアプリが失敗しても、インターネットがどこへも行かないのと同じ事です。
 
 0:15:07.220,0:15:13.860
-If you understand that Bitcoin is a technology, not just
-a currency, you can truly grasp its the importance.
+もしビットコインがただの通貨ではなく、テクノロジーであると理解するなら、その真の重要性をつかむ事ができます。
+
 
 0:15:13.860,0:15:21.700
-Again, it is not just about us.
-It is about the other six billion.
+繰り返しになりますが、これは私たちだけの問題ではないのです。他の60億人についてのものです。
+
 
 0:15:21.700,0:15:28.740
-It is about bringing financial integration
-that the world has never seen before.
+これは世界がかつて見た事もない、金融統合をもたらすものなのです。
+
 
 0:15:28.740,0:15:34.040
-From our perspective, it is a great technology
-we can use for disruptive Innovation.
+私たちの視点から見れば、ディスラプトなイノベーションに使える素晴らしいテクノロジーです。
 
 0:15:34.040,0:15:37.260
-We can build some interesting services.
+面白いサービスを作り出せるでしょう。
 
 0:15:37.260,0:15:47.040
-If you are a Kenyan farmer raising money to buy seeds,
-you can join in decentralized, peer-to-peer lending,
+ケニアの農家が種を買うための資金調達をする際に、分散型のピア・ツー・ピアレンディングに参加して
 
 0:15:47.040,0:15:57.320
-and reach out to lenders all across the globe.
-This is not just a technology, it is life-changing.
+世界中の貸金業者に繋がる事ができるようになります。
+これは単なるテクノロジーではなく、人生を変えるものです
 
 0:15:57.320,0:16:05.860
-The impact Bitcoin will have on the vast majority of the
-world which lives under repressive and corrupt regimes,
-
-0:16:05.860,0:16:11.280
-with central banks that impose
-hyperinflation of 30% or more per month.
+ビットコインは、月に30％以上ものハイパーインフレを課す中央銀行を擁し、抑圧し腐敗した政権のもとで暮らしている世界の大多数に影響を与えるでしょう。
 
 0:16:11.280,0:16:17.200
-It is more important to see how
-Bitcoin can affect all of those people.
+そうした人々全員にビットコインがどのような影響を与えるかがさらに重要です。
+
 
 0:16:17.200,0:16:21.960
-There are two billion people on the internet;
-only one billion of them have bank accounts.
+インターネット上には20億人もの人がいます。そのうち銀行口座を持っているのは10億人だけです。
 
 0:16:21.960,0:16:25.880
-We can change that. It will not be easy.
+それを変えられるんです。簡単には行かないでしょう。
 
 0:16:25.880,0:16:30.480
-Make no mistake about it, when you
-[introduce] a disruptive technology into...
-
-0:16:30.480,0:16:36.940
-the middle of the most powerful organizations
-[and governments] on the planet, they won't like it.
+ミスを犯さないように。破壊的なテクノロジーを地球上で最も強力な組織と政府の中にそれを導入するとなると、彼らは気に食わないでしょう。
 
 0:16:36.940,0:16:40.100
-Right now, we are still in the early stages.
+今はまだ、私たちは初期の段階にいます。
 
 0:16:40.100,0:16:48.540
-To use a trite expression, "First they ignore us, then
-they laugh at us, then they fight us, and then we win."
+慣用句で言えば“最初彼らは無視する。そして笑い飛ばす。その後戦いを挑んでくるが、勝つのは我々だ。”
 
 0:16:48.540,0:16:53.460
-We are still at the laughing stage,
-and that is quite all right.
+まだ私たちは笑われている段階にいます。でもそれで全然いいんです。
 
 0:16:53.460,0:17:00.480
-By the time they start fighting us, they will have
-already lost. This technology will be global.
+彼らが戦い始める頃までには、彼らはもうすでに負けているのですから。このテクノロジーは地球規模なものです。
 
 0:17:00.480,0:17:07.400
-More than $2.5 billion dollars has come from Chinese
-investors who discovered a counterbalance...
+25億ドル以上が、米ドルの世界基軸通貨による世界支配へのカウンターバランスを発見した中国の投資家の手によってもたらされています。
 
-0:17:07.400,0:17:11.980
-to world domination by the global
-reserve currency of the U.S. dollar.
 
 0:17:11.980,0:17:18.540
-There are about 180 currencies in the world,
-but there is only one international currency.
+世界には180種類ほどの通貨がありますが、国際通貨は1種類しかありません。
+
+
 
 0:17:18.540,0:17:26.840
-There are about 180 currencies controlled by central
-banks and governments, but only one is mathematical.
+中央銀行や政府が管理している通貨は約180種類ありますが、数学的に管理されている通貨は1種類しかありません。
 
 0:17:26.840,0:17:31.200
-That is bitcoin. We will build more of them.
+それはビットコインです。そしてそれ以上にも作るでしょう。
+
 
 0:17:31.200,0:17:36.460
-Cryptographic currencies will be
-a mainstay of our financial future.
+暗号通貨は金融の未来の柱となるでしょう。
 
 0:17:36.460,0:17:47.940
-They will be part of the future of this planet.
-They [can't be] uninvented, and it is as simple as that.
+それらはこの地球の未来の一部となるでしょう。それらを発明をなかった事にする事はできません。それはとても簡単な事です。
 
 0:17:47.940,0:17:51.920
-You cannot turn that omelet back into eggs.
+オムレツを卵に戻す事はできないのです。
 
 0:17:51.920,0:17:58.020
-There are already have more than
-a hundred competing currencies.
+すでに100以上ものライバル通貨が登場しています。
+
 
 0:17:58.020,0:18:03.920
-This shows how quickly innovation has
-exploded beyond bitcoin the currency.
+これはビットコインという通貨を超えていかに早くイノベーションが爆発したかを示しています。
 
 0:18:03.920,0:18:10.660
-There are many alternative coins, altcoins as
-they're known, that use the same basic technology:
+アルトコインとして知られる多くの代替コインが登場していますが、どれも同じ基礎的なテクノロジーを使用しています。
 
 0:18:10.660,0:18:18.340
-a decentralized consensus network and an asset ledger.
+分散型コンセンサスネットワークと資産台帳。
 
 0:18:18.340,0:18:27.060
-There [can be] other forms of currency that are
-inflationary or deflationary, that use demurrage...
-
-0:18:27.060,0:18:29.100
-or negative interest rates.
+他の形の通貨も作れます。インフレやデフレ通貨。デマレージやマイナス金利を使う通貨などなど。
 
 0:18:29.100,0:18:35.980
-Currencies that redistribute a proportion
-of the income to charitable organisations.
+慈善団体に収入の割合を再分配するようなチャリティー用通貨。
 
 0:18:35.980,0:18:42.600
-We can invent new forms of
-money and financial instruments.
+私たちは新しい形のお金と金融機関を発明できるのです。
 
 0:18:42.600,0:18:46.480
-Bitcoin is programmable money.
+ビットコインはプログラミングできるお金です。
 
 0:18:46.480,0:18:51.360
-Once you have programmable money,
-the possibilities are truly endless.
+一度プログラミングできるお金を手にしたなら、その可能性は本当に無限です。
 
 0:18:51.360,0:18:58.140
-Many of the basic concepts in our current
-system depend on legal contracts.
+現在のシステムにおける基本的な考え方の多くは、法律上の契約に依存しています。
+
+
 
 0:18:58.140,0:19:07.920
-We can convert them into algorithmic contracts
-that can be enforced on the Bitcoin network.
+それらをビットコイン・ネットワークで強制可能なアルゴリズム的な契約に変換する事ができるのです。
 
 0:19:07.920,0:19:21.740
-As I said before, there is no counterparty. If I choose to
-send value to another part of the peer-to-peer network.
+先ほども言いましたが、ピア・ツー・ピアネットワークの他の部分に価値を送る事を選んだら、そこに取引先というのはありません。
 
 0:19:21.740,0:19:23.880
-no one is in between.
+間には誰もいないのです。
 
 0:19:23.880,0:19:31.260
-if I invent a new form of money, I can deploy it
-to the entire world and invite others to join me.
+もし私が新しい形のお金を発明したのなら、私はそれを全世界中に導入して他の人々の参加を呼び掛ける事ができます。
 
 0:19:31.260,0:19:40.320
-If you see that Bitcoin has the [potential]
-to not only introduce money for the internet...
+ビットコインがインターネットにお金を導入するだけではない可能性を秘めていると見るなら・・・
 
 0:19:40.320,0:19:49.740
 なぜならインターネット向けのお金としてパーフェクトだからです。
@@ -609,13 +544,10 @@ to not only introduce money for the internet...
 えぇ、ビットコインはインターネット向けのお金です。しかしまたそれ以上のものです。ビットコインはインターネットのお金なのです。
 
 0:19:56.800,0:20:08.360
-通貨は最初のアプリケーションに過ぎません。
-Currency is only the first application. If you grasp that,
-you can look beyond the fad and the price volatility.
+通貨は最初のアプリケーションに過ぎません。もしこれが理解できたら、FUDや価格の乱高下の先にあるものを見る事ができます。
 
 0:20:08.360,0:20:16.940
-At its core, it is a revolutionary technology that will
-change the world forever. Join me in this revolution.
+核心において、これは世界を永遠に変えてしまう革命的なテクノロジーです。私と一緒にこの革命に参加してください。
 
 0:20:16.940,0:20:26.800
 ありがとうございました。[拍手]

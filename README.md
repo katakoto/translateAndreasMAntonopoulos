@@ -17,8 +17,8 @@ Youtubeで閲覧できる真のビットコイン伝道者[アンドレアス・
 - [x] [Keeping Digital Communities Weird](https://youtu.be/1MG1aR71uFg)(Approved on 6/20/2020)
 - [x] [What is Mining?](https://youtu.be/t4p4iMqmxbQ)(Approved on 6/20/2020)
 - [ ] [Bitcoin is Punk Rock](https://youtu.be/A6kJfvuNqtg)
-- [ ] [What is Bitcoin?](https://youtu.be/LA9A1RyXv9s)(Submitted & Under review)
+- [x] [What is Bitcoin?](https://youtu.be/LA9A1RyXv9s)(Approved on 9/19/2020)
 - [ ] [Peer-to-Peer Money in a Historical Context](https://youtu.be/n-EpKQ6xIJs)
-- [ ] [Why I'm against ETFs](https://t.co/e8LJpDs5tj)
+- [x] [Why I'm against ETFs](https://t.co/e8LJpDs5tj)(Approved on 9/19/2020)
 
 Translated by [@katakoto](https://twitter.com/katakoto):+1:
